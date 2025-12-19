@@ -1,11 +1,11 @@
 @echo off
-chcp 65001 >nul
+chcp 1251 >nul
 title VK Auto Read
 color 0A
 
-echo ╔════════════════════════════════════════╗
-echo ║   VK Auto Read - Launcher              ║
-echo ╚════════════════════════════════════════╝
+echo ========================================
+echo    VK Auto Read - Launcher
+echo ========================================
 echo.
 
 python --version >nul 2>&1
