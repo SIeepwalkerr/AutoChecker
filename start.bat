@@ -1,5 +1,5 @@
 @echo off
-chcp 65001 >nul
+chcp 1251 >nul 2>nul
 title VK Auto Read
 color 0A
 
